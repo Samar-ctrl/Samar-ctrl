@@ -2,7 +2,7 @@
 - ✔️ I am Samar Kumar Guin, currently pursuing my bachelors from National Institute of Technology, Jamshedpur.
 - ✔️ I am interested in development. I also enjoy doing competitive programming.
 - ✔️ I have experience in FULL stack web development ..
-- 📫 How to reach me ...
+- 📫 How to reach me [Samar's LinkedIn](https://www.linkedin.com/in/samar-kumar-581009191/)
 
 Stats:
 <br/>
