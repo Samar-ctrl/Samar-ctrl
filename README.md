@@ -1,5 +1,5 @@
 🌱 About myself:
-- ✔️ I am Samr Kumar Guin, currently pursuing my bachelors from National Institute of Technology, Jamshedpur.
+- ✔️ I am Samar Kumar Guin, currently pursuing my bachelors from National Institute of Technology, Jamshedpur.
 - ✔️ I am interested in development. I also enjoy doing competitive programming.
 - ✔️ I have experience in FULL stack web development ..
 - 📫 How to reach me ...
